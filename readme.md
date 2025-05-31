@@ -3,6 +3,7 @@
 
 ## Descrição
 
+Matéria: API Development
 Esta API foi desenvolvida utilizando **Node.js** com o framework **NestJS** para gerenciar usuários em memória.  
 Não há banco de dados, todos os dados são armazenados em memória enquanto a aplicação está rodando.
 
@@ -12,15 +13,6 @@ A API permite:
 - Listar todos os usuários
 - Consultar um usuário específico pelo ID
 - Excluir um usuário pelo ID
-
----
-
-## Como foi feita
-
-- Projeto criado com NestJS CLI
-- Armazenamento em memória (lista interna no serviço `UsersService`)
-- Endpoints implementados no controller `UsersController`
-- Tipagem e injeção de dependência seguindo padrões do NestJS
 
 ---
 
@@ -46,7 +38,8 @@ A API permite:
    npm run start
    ```
 
-A API estará disponível em `http://localhost:3000/users`
+A API estará disponível em `http://localhost:3000`. 
+Tem uma collection para importar no Postman e testar os métodos.
 
 ---
 
@@ -120,4 +113,4 @@ curl -X DELETE http://localhost:3000/users/1
 
 ## Alunos
 
-- **Luan [Seu Sobrenome]** – luan@faculdadeimpacta.com.br
+- **Luan Marques** – luan.marques@aluno.faculdadeimpacta.com.br
