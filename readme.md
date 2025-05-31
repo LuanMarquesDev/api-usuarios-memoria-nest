@@ -4,6 +4,7 @@
 ## Descrição
 
 Matéria: API Development
+
 Esta API foi desenvolvida utilizando **Node.js** com o framework **NestJS** para gerenciar usuários em memória.  
 Não há banco de dados, todos os dados são armazenados em memória enquanto a aplicação está rodando.
 
