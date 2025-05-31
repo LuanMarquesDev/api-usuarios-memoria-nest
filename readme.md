@@ -1,5 +1,9 @@
 
-# API de Usuários em Memória - NestJS
+# API de Usuários em Memória - NestJS 
+
+**Luan Marques** – luan.marques@aluno.faculdadeimpacta.com.br
+
+---
 
 ## Descrição
 
@@ -110,9 +114,3 @@ Deletar usuário id 1:
 ```bash
 curl -X DELETE http://localhost:3000/users/1
 ```
-
----
-
-## Alunos
-
-- **Luan Marques** – luan.marques@aluno.faculdadeimpacta.com.br
