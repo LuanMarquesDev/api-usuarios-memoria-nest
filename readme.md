@@ -39,7 +39,8 @@ A API permite:
    ```
 
 A API estará disponível em `http://localhost:3000`. 
-Tem uma collection para importar no Postman e testar os métodos.
+
+Para facilitar o teste da API, disponibilizamos uma **Postman Collection** pronta para importar.
 
 ---
 
